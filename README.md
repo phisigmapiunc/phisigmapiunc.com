@@ -15,7 +15,7 @@ This web app is programmed using [Next.js](https://nextjs.org/docs) and [Supabas
 3. Run `npm install` to install the node packages
 4. Copy the `URL` and `ANON` `PUBLIC` Key from the [Project Page](https://app.supabase.com/project/_/settings/api).
 
-5. Place them in a new file in this directory called `.env.local` in this format:
+5. Place them in a new file in this directory called `.env.local` with the contents:
 
 ```text
 NEXT_PUBLIC_SUPABASE_URL=<URL you copied>
